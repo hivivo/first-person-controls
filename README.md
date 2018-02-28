@@ -57,5 +57,5 @@ MIT © [Mr.doob](http://mrdoob.com/), [AlteredQualia](http://alteredqualia.com/)
 
 [npm-image]: https://badge.fury.io/js/first-person-controls.svg
 [npm-url]: https://npmjs.org/package/first-person-controls
-[daviddm-image]: https://david-dm.org/first-person-controls.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/first-person-controls
+[daviddm-image]: https://david-dm.org/hivivo/first-person-controls.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/hivivo/first-person-controls
